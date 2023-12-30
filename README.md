@@ -17,9 +17,13 @@ chABSA-dataset|日本語の有価証券報告書とネガポジが紐付けさ�
 ---|---|---|---|---
 Anime Face|アニメキャラの顔画像|https://drive.google.com/file/d/1EYW3EzkpKbobOJvdLrXhq_ziErOuNVGG/view?usp=drive_link|-|ラベルは付与されていない
 Cambridge-Driving Labeled Video Database|車載カメラの画像とセグメンテーションが紐付けされている|https://drive.google.com/file/d/1M5mP_b248aP95URHeZ5aATmOKnTmKxC_/view?usp=drive_link|https://www.kaggle.com/datasets/carlolepelaars/camvid|-
+CelebFaces|外国人有名人の顔写真|⭐️|https://www.kaggle.com/datasets/jessicali9530/celeba-dataset|ラベルは付与されていない
 Horse-10|馬の動画と馬の姿勢が紐付けされている|https://drive.google.com/file/d/1Ywcsh1tjqJJDLWEp5We3kGugasTuUH2d/view?usp=drive_link|http://horse10.deeplabcut.org/|-
+ImageNet 1000 (mini)|ImageNetの各ラベルの画像が1000枚ずつになったもの|⭐️|https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000
 
 ## Multi Modal
 データセット名|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---
+Flickr 8k Dataset|8000枚の画像と1枚につき5件の英語のキャプションが紐付けされている|https://drive.google.com/file/d/1Tz30cEQFL2lD3Nn7-Vi_b-gvJ1gMJl7u/view?usp=drive_link|https://www.kaggle.com/datasets/adityajn105/flickr8k|-
 Memotion Dataset 7k|7000枚のMeme画像と付与されているMeme文章が紐付けされている|https://drive.google.com/file/d/1kbDMG130R1AIxIrUX9vu0PHMKCGECSjh/view?usp=drive_link|https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k|-
+MS COCO|画像とキャプションが紐付けされている|⭐️|https://cocodataset.org/#home|
