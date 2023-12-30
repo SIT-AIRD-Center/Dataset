@@ -10,6 +10,9 @@ livedoorニュースコーパス|日本語の９種類のブログの記事|h
 
 
 ## 画像
+データセット名|説明|ダウンロードリンク|参照|補足
+---|---|---|---|---
+Anime Face|アニメキャラの顔画像|https://drive.google.com/file/d/1EYW3EzkpKbobOJvdLrXhq_ziErOuNVGG/view?usp=drive_link|-|ラベルは付与されていない
 
 
 ## Multi Modal
