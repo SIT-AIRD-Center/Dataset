@@ -7,7 +7,7 @@ AI R&D Centerが保有するデータセットの一覧です
 ## NLP
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---|---
-IMDB|[here](tutorials/tutorial_IMDB.ipynb)|英語の映画レビューとネガポジが紐付けされている|https://drive.google.com/file/d/1i2-d0pXg1TArLehWS9z96HXxTWnU2OlV/view?usp=drive_link|https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download|-
+IMDB|[here](tutorials/tutorial_IMDB.ipynb)|英語の映画レビューとネガポジが紐付けされている|[Google Drive](https://drive.google.com/file/d/1i2-d0pXg1TArLehWS9z96HXxTWnU2OlV/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download)|-
 livedoorニュースコーパス|-|日本語の９種類のブログの記事|https://drive.google.com/file/d/1Hy4lAzwKcs1eTIFZw_t0tY8THNXkgkD5/view?usp=drive_link|https://www.rondhuit.com/download.html#news%20corpus|-
 chABSA-dataset|-|日本語の有価証券報告書とネガポジが紐付けされている|https://drive.google.com/file/d/1-mcuRRl0u2MBlEHOzEuRUs8o6EEHstnu/view?usp=drive_link|https://github.com/chakki-works/chABSA-dataset|報告内容のラベルやネガポジのラベル付けの根拠も付与されている
 
