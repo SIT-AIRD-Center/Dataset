@@ -35,4 +35,4 @@ MS COCO|-|画像とキャプションが紐付けされている|[Google Drive](
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---|---
 MUFG Data Science Champion Ship 2023|-|クレジットカードの不正利用検出|[Google Drive](https://drive.google.com/file/d/1FDuEa830huQMY-PpOxyQZxnLjgsrUHOq/view?usp=drive_link)|[link](https://signate.jp/competitions/1088)|クラスインバランスがあるので注意
-SOCR-HeightWeight|-|25000人の18歳の身長と体重が紐付けされている|[Google Drive](https://drive.google.com/file/d/1XwCv6ZaFA1_9NDjd6o5zyy1DZyMQPAJq/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset)|-
+SOCR-HeightWeight|[here](tutorials/tutorial_SOCR_HeightWeight.ipynb)|25000人の18歳の身長と体重が紐付けされている|[Google Drive](https://drive.google.com/file/d/1XwCv6ZaFA1_9NDjd6o5zyy1DZyMQPAJq/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset)|-
