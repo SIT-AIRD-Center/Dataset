@@ -27,12 +27,12 @@ Indian-Birds-Species-Image-Classification|-|25種類の鳥の画像とラベル�
 ## Multi Modal
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---|---
-Flickr 8k Dataset|-|8000枚の画像と1枚につき5件の英語のキャプションが紐付けされている|https://drive.google.com/file/d/1Tz30cEQFL2lD3Nn7-Vi_b-gvJ1gMJl7u/view?usp=drive_link|-|https://www.kaggle.com/datasets/adityajn105/flickr8k|-
-Memotion Dataset 7k|-|7000枚のMeme画像と付与されているMeme文章が紐付けされている|https://drive.google.com/file/d/1kbDMG130R1AIxIrUX9vu0PHMKCGECSjh/view?usp=drive_link|-|https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k|-
-MS COCO|-|画像とキャプションが紐付けされている|https://drive.google.com/file/d/126oI8lR6fjyxUeiIv-ZjRXXmAfRZzTF1/view?usp=drive_link|https://cocodataset.org/#home|
+Flickr 8k Dataset|-|8000枚の画像と1枚につき5件の英語のキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/1Tz30cEQFL2lD3Nn7-Vi_b-gvJ1gMJl7u/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/adityajn105/flickr8k)|-
+Memotion Dataset 7k|-|7000枚のMeme画像と付与されているMeme文章が紐付けされている|[Google Drive](https://drive.google.com/file/d/1kbDMG130R1AIxIrUX9vu0PHMKCGECSjh/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k)|-
+MS COCO|-|画像とキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/126oI8lR6fjyxUeiIv-ZjRXXmAfRZzTF1/view?usp=drive_link)|[link](https://cocodataset.org/#home)|-
 
 ## Other
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---|---
-MUFG Data Science Champion Ship 2023|-|クレジットカードの不正利用検出|https://drive.google.com/file/d/1FDuEa830huQMY-PpOxyQZxnLjgsrUHOq/view?usp=drive_link|https://signate.jp/competitions/1088|クラスインバランスがあるので注意
-SOCR-HeightWeight|-|25000人の18歳の身長と体重が紐付けされている|https://drive.google.com/file/d/1XwCv6ZaFA1_9NDjd6o5zyy1DZyMQPAJq/view?usp=drive_link|https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset|-
+MUFG Data Science Champion Ship 2023|-|クレジットカードの不正利用検出|[Google Drive](https://drive.google.com/file/d/1FDuEa830huQMY-PpOxyQZxnLjgsrUHOq/view?usp=drive_link)|[link](https://signate.jp/competitions/1088)|クラスインバランスがあるので注意
+SOCR-HeightWeight|-|25000人の18歳の身長と体重が紐付けされている|[Google Drive](https://drive.google.com/file/d/1XwCv6ZaFA1_9NDjd6o5zyy1DZyMQPAJq/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset)|-
