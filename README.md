@@ -22,6 +22,7 @@ Flower Classification|14種の花の画像とラベルが紐付けされてい�
 Horse-10|馬の動画と馬の姿勢が紐付けされている|https://drive.google.com/file/d/1Ywcsh1tjqJJDLWEp5We3kGugasTuUH2d/view?usp=drive_link|http://horse10.deeplabcut.org/|-
 ImageNet 1000 (mini)|ImageNetの各ラベルの画像が1000枚ずつになったもの|https://drive.google.com/file/d/1d7_XJAu77Y_DWp19-GGV-WRHmG2iGvKn/view?usp=drive_link|https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000
 Indian-Birds-Species-Image-Classification|25種類の鳥の画像とラベルが紐付けされている|https://drive.google.com/file/d/1RRMUftG996vdHcMsmsNW4Fr74AFfsWY7/view?usp=drive_link|https://www.kaggle.com/datasets/ichhadhari/indian-birds|-
+テクノプロ・デザイン社 食品パッケージ画像解析チャレンジ（一般部門・学生部門）|食品ラベルとその食品が飲料か食料かのラベルが紐付けされている|https://drive.google.com/file/d/1OyamLHZL0fSv2EFZtArDRDzDtCOOAXgT/view?usp=drive_link|https://signate.jp/competitions/1106|-
 
 ## Multi Modal
 データセット名|説明|ダウンロードリンク|参照|補足
