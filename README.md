@@ -29,6 +29,7 @@ Unity Traffic Sign Dataset|-|Unityで作られた仮想の街の画像と画像�
 ## Multi Modal
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
 ---|---|---|---|---|---
+Bokete Dataset|-|画像とその画像に対する大喜利と画像のOCR結果が紐付けされている|[Google Drive](https://drive.google.com/file/d/1y8XeKvsmOTpgXj-KzmkYgfFsykz_-9xt/view?usp=drive_link)|[link](https://drive.google.com/file/d/1DF9PfLF2wFj79gPIWqeKqnH_-09ATXLi/view?usp=drive_link)|-
 Flickr 8k Dataset|-|8000枚の画像と1枚につき5件の英語のキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/1Tz30cEQFL2lD3Nn7-Vi_b-gvJ1gMJl7u/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/adityajn105/flickr8k)|-
 Memotion Dataset 7k|-|7000枚のMeme画像と付与されているMeme文章が紐付けされている|[Google Drive](https://drive.google.com/file/d/1kbDMG130R1AIxIrUX9vu0PHMKCGECSjh/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k)|-
 MS COCO|-|画像と英語のキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/126oI8lR6fjyxUeiIv-ZjRXXmAfRZzTF1/view?usp=drive_link)|[link](https://cocodataset.org/#home)|-
