@@ -18,6 +18,7 @@ chABSA-dataset|-|日本語の有価証券報告書とネガポジが紐付けさ
 Anime Face|-|アニメキャラの顔画像|[Google Drive](https://drive.google.com/file/d/1EYW3EzkpKbobOJvdLrXhq_ziErOuNVGG/view?usp=drive_link)|-|ラベルは付与されていない
 Cambridge-Driving Labeled Video Database|-|車載カメラの画像とセグメンテーションが紐付けされている|[Google Drive](https://drive.google.com/file/d/1M5mP_b248aP95URHeZ5aATmOKnTmKxC_/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/carlolepelaars/camvid)|-
 CelebFaces|-|外国人有名人の顔写真|[Google Drive](https://drive.google.com/file/d/1oUIX4fydwHGinT5DLWHxr3af8eVIfOsE/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)|ラベルは付与されていない
+FairFace|-|人の顔写真と被写体の性別，年齢，人種が紐づけられている|[Google Drive](https://drive.google.com/file/d/1zklen5aK4IkbcJiJG1pkmpkWe2PwkMoR/view?usp=drive_link)|[link](https://github.com/joojs/fairface)|-
 Flower Classification|-|14種の花の画像とラベルが紐付けされている|[Google Drive](https://drive.google.com/file/d/1kZu8_M1pSzJDdJmJ3hMQ1vsfWGKu9rYK/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/marquis03/flower-classification)|-
 Horse-10|-|馬の動画と馬の姿勢が紐付けされている|[Google Drive](https://drive.google.com/file/d/1Ywcsh1tjqJJDLWEp5We3kGugasTuUH2d/view?usp=drive_link)|[link](http://horse10.deeplabcut.org/)|-
 ImageNet 1000 (mini)|-|ImageNetの各ラベルの画像が1000枚ずつになったもの|[Google Drive](https://drive.google.com/file/d/1d7_XJAu77Y_DWp19-GGV-WRHmG2iGvKn/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000)|-
@@ -29,7 +30,8 @@ Indian-Birds-Species-Image-Classification|-|25種類の鳥の画像とラベル�
 ---|---|---|---|---|---
 Flickr 8k Dataset|-|8000枚の画像と1枚につき5件の英語のキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/1Tz30cEQFL2lD3Nn7-Vi_b-gvJ1gMJl7u/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/adityajn105/flickr8k)|-
 Memotion Dataset 7k|-|7000枚のMeme画像と付与されているMeme文章が紐付けされている|[Google Drive](https://drive.google.com/file/d/1kbDMG130R1AIxIrUX9vu0PHMKCGECSjh/view?usp=drive_link)|[link](https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k)|-
-MS COCO|-|画像とキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/126oI8lR6fjyxUeiIv-ZjRXXmAfRZzTF1/view?usp=drive_link)|[link](https://cocodataset.org/#home)|-
+MS COCO|-|画像と英語のキャプションが紐付けされている|[Google Drive](https://drive.google.com/file/d/126oI8lR6fjyxUeiIv-ZjRXXmAfRZzTF1/view?usp=drive_link)|[link](https://cocodataset.org/#home)|-
+STAIR Captions|-|画像と日本語のキャプションが紐付けされている．写真はMS COCOのものを，キャプションはMS COCOのものを和訳している|[Google Drive](https://drive.google.com/file/d/1XB_ahaIJr70d98g1NuQGwnNA9glpNP-1/view?usp=drive_link)|[link](http://captions.stair.center/)|-
 
 ## Other
 データセット名|チュートリアル|説明|ダウンロードリンク|参照|補足
